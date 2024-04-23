@@ -15,3 +15,12 @@
     <li><b>Dist_Praia</b> - Distância do imóvel até a praia (km) (em linha reta)</li>
     <li><b>Dist_Farmacia</b> - Distância do imóvel até a farmácia mais próxima (km) (em linha reta)</li>
 </ul>
+
+
+# Interpretação dos Coeficientes Estimados
+
+Preço (R$) - Excluindo o efeito das variáveis explicativas o efeito médio no Preço dos Imóveis seria de R$ 11.326,68
+
+Área (m²) - Mantendo-se o valor de $X_3$ (Distância até a Praia) constante, um acréscimo de 1% na Área de um imóvel gera, em média, um acréscimo de 1.06% no Preço do Imóvel.
+
+Distância até a Praia (km) - Mantendo-se o valor de $X_2$ (Área) constante, um acréscimo de 1% na Distância de um imóvel até a praia gera, em média, um decréscimo de 0.49% no Preço do Imóvel.
